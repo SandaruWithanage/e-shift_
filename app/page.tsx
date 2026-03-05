@@ -26,7 +26,7 @@ export default function Home() {
         </div>
 
         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6">
-          Household Moves,<br className="hidden md:block" /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">Simplified.</span>
+          Household Moves,<br className="hidden md:block" /> <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-indigo-600">Simplified.</span>
         </h1>
         <p className="text-xl text-slate-600 mb-10 max-w-2xl mx-auto leading-relaxed">
           e-Shift is your modern transport management system. Book your move, track your goods in real-time, and experience a stress-free transition to your new home.
